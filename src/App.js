@@ -5,6 +5,7 @@ import FriendCard from "./components/FriendCard";
 import friends from "./friends.json";
 
 function App() {
+  handle = () => {console.log();}
   return (
     <Wrapper>
       <Title>Friends List</Title>
